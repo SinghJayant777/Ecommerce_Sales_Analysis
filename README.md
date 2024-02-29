@@ -42,10 +42,3 @@ To access and utilize this Sales Analysis Report:
 
 Feedback and contributions are welcome! If you have any suggestions for improvement or would like to contribute additional features, please feel free to provide feedback or contribute to the project.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-*Note: This README.md file serves as a basic template. Please customize it with specific details relevant to your Sales Analysis Report.*
